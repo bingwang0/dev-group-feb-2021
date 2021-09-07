@@ -1,3 +1,4 @@
+//handler that posts notification, 1
 public inherited sharing class CoolEventTriggerHandler {
     public static void sendNotificationAbtCoolNumber(List<Cool_Event__e> newEvents) {
         // notification target Id
