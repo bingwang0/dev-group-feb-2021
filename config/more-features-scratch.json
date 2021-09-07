@@ -1,0 +1,64 @@
+{
+  "orgName": "feature rich standard scratch org",
+  "edition": "Enterprise",
+  "features": ["EnableSetPasswordInApi", 
+    "ContactsToMultipleAccounts", 
+    "ProcessBuilder",
+    "RecordTypes",
+    "SalesUser", 
+    "MarketingUser",
+    "Communities",
+    "ForceComPlatform",
+    "AdditionalFieldHistory:40",
+    "WorkplaceCommandCenterUser",
+    "LightningSalesConsole",
+    "LightningServiceConsole",
+    "SalesCloudEinstein",
+    "SecurityEventEnabled"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "accountSettings": {
+      "enableAccountHistoryTracking": true,
+      "enableContactHistoryTracking": true,
+      "showViewHierarchyLink": true
+    },
+    "contentSettings": {
+        "enableContent": true
+    },
+    "emailAdministrationSettings": {
+        "enableEnhancedEmailEnabled": true
+    },
+    "quoteSettings": {
+      "enableQuote": true
+    },
+    "nameSettings": {
+      "enableMiddleName": true,
+      "enableNameSuffix": true
+    }, 
+    "surveySettings": {
+      "enableSurvey": true
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "campaignSettings": {
+      "enableCampaignInfluence2": true
+    },
+    "forecastingSettings": {
+      "enableForecasts": true
+    },
+    "workDotComSettings": {
+      "enableProfileSkills": true,
+      "enableWorkThanksPref": true
+    },
+    "ideasSettings": {
+      "enableIdeas": true,
+      "enableChatterProfile": true
+    }
+  }
+}
